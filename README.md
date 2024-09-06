@@ -2,7 +2,7 @@
 
 Custom Calendar is a powerful PHP-based calendar application designed to streamline schedule management with a host of intuitive features. Whether you're organizing events, appointments, or tasks, Custom Calendar offers the flexibility and functionality you need.
 
-## Key Features 🚀
+## Key Features 🚀 
 
 - **Month View**: Easily navigate through a monthly calendar for efficient planning.
 - **Today's Highlight**: Instantly identify the current date for quick reference.
